@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tyler/problemsolving_with_cpp/chapter_6/pp4/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/average_deviation.dir/main.cpp.o -c /home/tyler/problemsolving_with_cpp/chapter_6/pp4/main.cpp",
+  "file": "/home/tyler/problemsolving_with_cpp/chapter_6/pp4/main.cpp",
+  "output": "CMakeFiles/average_deviation.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/tyler/problemsolving_with_cpp/chapter_10/pp1/cmake-build-debug",
+	"dir-cur-src" : "/home/tyler/problemsolving_with_cpp/chapter_10/pp1",
+	"dir-top-bld" : "/home/tyler/problemsolving_with_cpp/chapter_10/pp1/cmake-build-debug",
+	"dir-top-src" : "/home/tyler/problemsolving_with_cpp/chapter_10/pp1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/tyler/problemsolving_with_cpp/chapter_10/pp1/cmake-build-debug/CMakeFiles/pp1.dir"
+}

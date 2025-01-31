@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/advice.dir/main.cpp.o -o advice

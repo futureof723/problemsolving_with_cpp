@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/average_deviation.dir/main.cpp.o -o average_deviation

@@ -1,0 +1,4 @@
+/home/tyler/.cache/JetBrains/RemoteDev/dist/62d1a6aa9ad3e_CLion-243.20847.43/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/tyler/.cache/JetBrains/RemoteDev/dist/62d1a6aa9ad3e_CLion-243.20847.43/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++ -G Ninja -S /home/tyler/problemsolving_with_cpp/chapter_10/pp2 -B /home/tyler/problemsolving_with_cpp/chapter_10/pp2/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/tyler/problemsolving_with_cpp/chapter_10/pp2/cmake-build-debug
