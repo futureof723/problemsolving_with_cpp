@@ -1,4 +1,4 @@
-#include <cctype>
+hi#include <cctype>
 #include <ctime>
 #include <iostream>
 #include <vector>
@@ -123,7 +123,7 @@ void game_play(int &players_money, int players_wage) {
 int main() {
   int starting_amount = 0;
 
-  std::cout << "This program plays the game of poker against the house. "
+  std::cout << "This program plays the game of black jack against the house. "
             << std::endl;
   std::cout << "How much money would you like to start with? " << std::endl;
   std::cin >> starting_amount;
